@@ -1,7 +1,13 @@
-# Android Studio project
+# Intellij / Android Studio project
+
+*.class
+*.apk
 *.iml
+*.iws
+
 .idea
 .gradle
 build
+gen
 
 local.properties
